@@ -1,4 +1,4 @@
 # MPC-Controller-for-2-DOF-Vehicle-Active-Suspension-System
 MPC controller for vehicle active suspension system (ASS) simulation model in MATLAB/Simulink
 2自由度MPC控制主动悬架MATLAB/Simulink仿真模型
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8eebbdcb-4389-4df4-8294-63d17e1608d8)
